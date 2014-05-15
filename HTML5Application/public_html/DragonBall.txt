@@ -1,0 +1,2 @@
+é legalzin
+mas é um arquivo criado remotamente para teste com a IDA NetBeans
